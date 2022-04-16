@@ -1,12 +1,12 @@
 
 <!-- WELCOME -->
 
-<p align="center"><a href="#"><img width="50%" height="auto" src="https://github.com/Smalick0478/Smalick0478/blob/main/img/developer.svg" height="175px"/></a></p>
+<p align="center"><a href="#"><img width="50%" height="auto" src="https://user-images.githubusercontent.com/20766696/163683291-8b91771c-264b-4956-bc0e-cebbfb3c68bf.png" height="175px"/></a></p>
   
   <h3 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm SAMEER MALICK</h3>
    
  
-  <h3 align="center">| Developer | Security Analyst | Graphics Designer |</h3>
+  <h3 align="center">| Developer | Security Analyst | Graphic Designer |</h3>
  
  
  <!-- ABOUT ME-->
